@@ -8,4 +8,4 @@ https://github.com/m0oje/Encoder/assets/138607426/b392a6a7-13d3-473b-99e4-89f3f3
 
 as you can see, the measurement are shown at the serial plotter as we rotate the encoder.
 
-The code is uploaded as: /BasicEncoder/BasicEncoder.ino
+The code is uploaded as: /BasicEncoder.ino
